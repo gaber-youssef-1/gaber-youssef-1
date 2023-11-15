@@ -17,7 +17,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/gaber-youssef" target="_blank"><img src="https://img.shields.io/badge/-Gaber%20Youssef-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[www.linkedin.com/in/gaber-youssef](https://www.linkedin.com/in/gaber-youssef?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-Gaber%20Youssef-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Gaber_Youssef" target="_blank"><img src="https://img.shields.io/badge/-Gaber%20Youssef-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
